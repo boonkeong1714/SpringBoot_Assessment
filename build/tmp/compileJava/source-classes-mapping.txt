@@ -1,0 +1,16 @@
+org/generation/todolist/repository/ItemRepository.java
+ org.generation.todolist.repository.ItemRepository
+org/generation/todolist/TodolistApplication.java
+ org.generation.todolist.TodolistApplication
+org/generation/todolist/security/MvcConfig.java
+ org.generation.todolist.security.MvcConfig
+org/generation/todolist/controller/dto/ItemDTO.java
+ org.generation.todolist.controller.dto.ItemDTO
+org/generation/todolist/repository/Entity/Item.java
+ org.generation.todolist.repository.Entity.Item
+org/generation/todolist/service/ItemService.java
+ org.generation.todolist.service.ItemService
+org/generation/todolist/service/ItemServiceMySQL.java
+ org.generation.todolist.service.ItemServiceMySQL
+org/generation/todolist/controller/ItemController.java
+ org.generation.todolist.controller.ItemController
