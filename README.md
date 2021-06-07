@@ -11,13 +11,22 @@ TODO Form
 **===== Reflection Questions =====**  
 
 1. What did you like about this project?  
- This project is like treausre hunting, using SQL to nagivate and locate the treasure.
+   One of the objective I signed up for this JFSD programe is to be able to create an app.
+   This project is a baby step for me to achieve this goal.
+   I am glad that I am able to complete it.
 
 2. What did you struggle with in this project?  
- * Tried to count how many NULL, is very tricky.
- * Deal with slightly big amount(>500) of data is quite overwhelming.
+ * The 415 Unsupported Media Type error: 
+   Class exercise uses content-type=formdata to post data to database. 
+   But somehow database only accepts Json format.
+   After one whole day of Google searching and testing, I managed to convert formdata to Json by using JSON.stringify method.
+    
+ * Dealing with date (Target Date) using LocalDate type.
 
 3. What would make your experience with this assessment better?  
-  To learn SQL better we need to do a lot of practises, go through the example in Codeacademy's Analyze Data with SQL is very helpful to understand the concept.
+  This project only involves "Create" and "Read" functions (from CRUD).
+  If the class exercise also cover "Update" and "Delete" operation, 
+  then we will be able to master all CRUD operation.
+  (The class exercise is very useful as it shows how Spring framework works.)
 
 -----
